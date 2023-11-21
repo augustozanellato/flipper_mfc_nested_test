@@ -1,4 +1,4 @@
-# Test app for ll mifare classic poller
+# Test app for mifare classic nested auth
 
 ## Disclaimer
 
